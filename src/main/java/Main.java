@@ -6,7 +6,7 @@ public class Main {
         post.patronymic = "Иванович";
         post.phone = "89533535466";
         post.surname = "Иванов";
-        post.subscription = "true";
+        post.subscription = true;
 
         post.birthday = new FormDate();
         post.birthday.day = 13;
